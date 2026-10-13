@@ -5,7 +5,7 @@
 #include <iostream>
 
 /**
- * @author TuNombre
+ * @author Gerardo David Ortega López
  * @version 1.0
  * @since v1.0
  * @see Node
